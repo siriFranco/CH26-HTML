@@ -1,0 +1,22 @@
+h1 {
+   color: #900C3F;
+}
+
+h2, h3, h4, h5{
+    color: #C70039;
+}
+
+table{
+    text-align: center;
+    border: 5px solid #900C3F;
+    align-items: center;
+}
+
+th{
+    border: 2px solid #C70039;
+}
+
+td{
+    border: 2px dashed #74A042;
+    padding: 20px;
+}
